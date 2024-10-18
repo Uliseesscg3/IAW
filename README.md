@@ -8,7 +8,7 @@ Curso 2024/25
 
 ---
 
-- Ejercicio 1![](unidad1/ejercicio1.md)
-- Ejercicio 2![](unidad1/ejercicio2.md)
-- Ejercicio 3![](unidad1/ejercicio3.md)
-- Ejercicio 4![](unidad1/ejercicio4.md)
+- Ejercicio 1![Ejercicio1](unidad1/ejercicio1.md)
+- Ejercicio 2![Ejercicio2](unidad1/ejercicio2.md)
+- Ejercicio 3![Ejercicio3](unidad1/ejercicio3.md)
+- Ejercicio 4![Ejercicio4](unidad1/ejercicio4.md)
